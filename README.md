@@ -1,5 +1,7 @@
 # Data Mining Tasks
 ## Task000
+بخش اول
+ ###Determine Business Objectives
 ### Question 1
 سوال 1
 مسئله اصلی کسب‌وکار را با زبان ساده توضیح دهید.
