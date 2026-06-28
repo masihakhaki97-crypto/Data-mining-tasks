@@ -364,3 +364,9 @@ Accuracy
 سوال 51
 تمام فازهای CRISP-DM را نام ببرید.
 ### Answer
+Business Understanding /
+Data Understanding /
+Data Preparation /
+Modeling /
+Evaluation /
+Deploymen
