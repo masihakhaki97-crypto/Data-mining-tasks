@@ -420,3 +420,38 @@ Deploymen
 ### Answer
 اطلاعات بیماران - تیم متخصص - کامپیوتر و سرور مناسب - بودجه پروژه - زمان کافی - زیر ساخت شبکه - همکاری پزشکان و مدیریت بیمارستان
 ### Question 58
+سوال 58
+ابزارهای نرم‌افزاری مورد نیاز پروژه را مشخص کنید.
+### Answer
+Python/
+Jupyter Notebook/
+Pandas/
+NumPy/
+Scikit-learn/
+Matplotlib و Seaborn
+### Question 59
+سوال 59
+یک Timeline برای پروژه طراحی کنید.
+### Answer
+شناخت مسئله و جمع‌آوری نیازمندی‌ها:	2 هفته -
+جمع‌آوری داده‌ها:	2 هفته -
+پاکسازی و آماده‌سازی داده‌ها:	2 هفته -
+ساخت مدل داده‌کاوی :	2 هفته -
+ارزیابی مدل	:2 هفته -
+استقرار و ارائه گزارش	 : 1 هفته
+### Question 60
+سوال 60
+زمان مورد نیاز هر فاز را تخمین بزنید.
+### Answer
+Business Understanding: 2 week /
+Data Understanding: 2 week /
+Data Preparation: 2 week /
+Modeling: 2 week /
+Evaluation: 2 week /
+Deployment: 1 week /
+
+### Question 61
+سوال 61
+وابستگی بین فازهای پروژه را مشخص کنید.
+### Answer
+
